@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "iPhone 13 Pro Max",
+        "price": 8000.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/iPhone/iphone-13-pro-max-blue.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "iPhone 13 Pro",
+        "price": 7000.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/iPhone/iphone-13-pro-gold.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "iPhone 13 Mini",
+        "price": 6000.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/iPhone/iphone-13-mini.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "iPhone 13 ",
+        "price": 6500.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/iPhone/iphone-12.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Samsung Galaxy Z Flip",
+        "price": 8000.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/samsung/samsung-galaxy-z-flip.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Samsung Galaxy A12",
+        "price": 3000.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/samsung/Samsung_Galaxy_A12.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Samsung Galaxy S21",
+        "price": 3500.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/samsung/Samsung_Galaxy_S21.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Samsung Galaxy A02",
+        "price": 8500.0,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/samsung/Samsungs-galaxy-A02.jpg" }
+          }
+        }
+      }
+    }
+  ]
+}
